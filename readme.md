@@ -9,7 +9,7 @@ To embed the CoinGecko Token Widget on your web page, follow these steps:
 Add the following HTML code to your web page where you want the widget to appear:
 
    ```html
-   <script src="/static/widgets/tokenWidget.js"></script>
+   <script src="https://coin-gecko-token-widget.vercel.app/static/widgets/tokenWidget.js"></script>
    <div id="coin-gecko-widget" data-token-name="bitcoin"></div>
    ```
 
